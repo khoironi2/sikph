@@ -5,8 +5,8 @@
                 <div class="row">
                     <div class="col-lg-6 col-md-6 col-12 col-sm-7">
                         <div class="slider-content slider-animated-1 pt-114">
-                            <h3 class="animated">We keep pets for pleasure.</h3>
-                            <h1 class="animated">Food & Vitamins <br>For all Pets</h1>
+                            <h3 class="animated">Timmy Fectare.</h3>
+                            <h1 class="animated">Tymmy Fectare <br>Sampang</h1>
                             <div class="slider-btn">
                                 <a class="animated" href="<?php base_url('/auth') ?>">GROMING NOW</a>
                             </div>
@@ -25,8 +25,8 @@
                 <div class="row">
                     <div class="col-lg-6 col-md-6 col-sm-7 col-12">
                         <div class="slider-content slider-animated-1 pt-114">
-                            <h3 class="animated">We keep pets for pleasure.</h3>
-                            <h1 class="animated">Food & Vitamins <br>For all Pets</h1>
+                            <h3 class="animated">Timmy Fectare.</h3>
+                            <h1 class="animated">Tymmy Fectare <br>Sampang</h1>
                             <div class="slider-btn">
                                 <a class="animated" href="<?php base_url('/auth') ?>">GROMING NOW</a>
                             </div>
